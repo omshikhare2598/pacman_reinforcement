@@ -1,1 +1,2 @@
-# pacman_reinforcement
+# Temporal Diffrence Learning - Reinforment Learning 
+## Pacman Small-Grid
