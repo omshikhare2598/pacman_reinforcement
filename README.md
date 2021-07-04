@@ -2,6 +2,8 @@
 ## Pacman Small-Grid
 #### Note this project is performed on Python2.
 
+![image](https://user-images.githubusercontent.com/60708644/124385152-805dc480-dccc-11eb-82a8-e4274788c06d.png)
+
 mlLearningAgents.py contains a class QLearnAgent, and that class includes the following methods.
 * init() This is the constructor for QLearnAgent. It is called by the game when the game starts up
 (because the game starts up the learner).
