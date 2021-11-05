@@ -1,4 +1,4 @@
-# Temporal Diffrence Learning - Reinforment Learning 
+# QLearning - Reinforment Learning 
 ## Pacman Small-Grid
 #### Note this project is performed on Python2.
 
